@@ -371,8 +371,13 @@ print(filtrar_informacion)
 
 """
 -Acerca de Condiciones 
-Las condiciones 
-
+Las condiciones como while o if generalmente utilizan 
+cualquier tipo de operador no solamente comparaciones.
+Uno de ello son los operadores de comparacion in y not in
+que determinan si un valor esta o no esta dentro del contenedor.
+Tambien existen los operadores is y is not que compara si dos objetos son realmente
+el mismo objeto, tambien cabe destacar que todos los operadores de comparacion tienen
+la misma prioridad, pero es menor que la de los operadores numericos
 
 
 
